@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebShop App\\backend\\WebShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13837337-406E-461A-AAB2-755F15699F8E}|..\\..\\WebShop.Tests\\WebShop.Tests.csproj|d:\\webshop app\\webshop.tests\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\webshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:webshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13837337-406E-461A-AAB2-755F15699F8E}|..\\..\\WebShop.Tests\\WebShop.Tests.csproj|d:\\webshop app\\webshop.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\dtos\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:dtos\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\migrations\\20260526171129_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:migrations\\20260526171129_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\migrations\\20260520191330_cascadedeleteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:migrations\\20260520191330_cascadedeleteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|d:\\webshop app\\backend\\webshop\\migrations\\20260525121212_addusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB3DC8-5B0B-446A-882E-99E981C37590}|WebShop.csproj|solutionrelative:migrations\\20260525121212_addusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "D:\\WebShop App\\WebShop.Tests\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\WebShop.Tests\\ProductServiceTest.cs",
+              "ToolTip": "D:\\WebShop App\\WebShop.Tests\\ProductServiceTest.cs",
+              "RelativeToolTip": "..\\..\\WebShop.Tests\\ProductServiceTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:32:49.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:31:55.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\WebShop App\\WebShop.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\WebShop.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\WebShop App\\WebShop.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\WebShop.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:21:50.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:27:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:27:12.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:18:46.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrderItemDto.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateOrderItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateOrderItemDto.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateOrderItemDto.cs",
+              "RelativeToolTip": "DTOs\\CreateOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:37:42.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:04:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:44:17.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebShop.csproj",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\WebShop.csproj",
+              "RelativeDocumentMoniker": "WebShop.csproj",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\WebShop.csproj",
+              "RelativeToolTip": "WebShop.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T12:28:14.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:33:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:57:31.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:13:40.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260526171129_AddUserRole.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Migrations\\20260526171129_AddUserRole.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260526171129_AddUserRole.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Migrations\\20260526171129_AddUserRole.cs",
+              "RelativeToolTip": "Migrations\\20260526171129_AddUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:11:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:09:40.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:13:00.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateOrderDto.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:35:59.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Data\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ShopDbContext.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Data\\ShopDbContext.cs",
+              "RelativeToolTip": "Data\\ShopDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:25:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260525121212_addUsers.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Migrations\\20260525121212_addUsers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260525121212_addUsers.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Migrations\\20260525121212_addUsers.cs",
+              "RelativeToolTip": "Migrations\\20260525121212_addUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:12:12.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\DTOs\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateProductDto.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\DTOs\\UpdateProductDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:42:38.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:13:08.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:03:26.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:18:56.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateProductDto.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:41:36.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260520191330_CascadeDeleteOrder.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Migrations\\20260520191330_CascadeDeleteOrder.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260520191330_CascadeDeleteOrder.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Migrations\\20260520191330_CascadeDeleteOrder.cs",
+              "RelativeToolTip": "Migrations\\20260520191330_CascadeDeleteOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:13:30.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateCategoryDto.cs",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\DTOs\\CreateCategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:07:13.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WebShop App\\backend\\WebShop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\WebShop App\\backend\\WebShop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:27:57.867Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
